@@ -1,6 +1,34 @@
-# AbInBev: The objective was to create a new product in line with the portfolio of ABInBev, focusing especally on indegenouity. Our proposal, MODIVA, was based on extrnsive research on the current market and brand positioning of ABInBev and how the existing resources can be utilised efficiently to bring out a product that could cater to the untapped customer segment. Our focus was on the premium whiskey segment with indigenouesly sourced ingredients from the North-East, with a focus on giving back to the community as a part of the business.
-# Flipkart: We worked with hyperpersonalization of total rewards to satisfy the evolving needs of today's multi-generational workforce. The project sheds light on the various options that other organizations have already taken up, and what are the possible/feasible ways of making customization available to the employees of Flipkart, keeping in mind the different categories of employees and their needs
-# Reckitt: The challenge wass for our focused idea to help strategize the key growth pillar of Dettol Soap Variants through marketing that didn't cannibalise the base products. We also proposed a new product under the Dettol brand- that could be positioned as a soap for all, without diluting the brand image
-# Colgate: The case challenge was to make Indians replace their toothbrish more often for better oral health, for which we targeted the emotional appeal and sensory communication of the Indian consumers. We proposed on bringing in a long term societal change by associating better oral hygiene with social status, and also proposed a new product that would use patented technology to visually appeal to the consumers and alert them to replace their toothbrush
-# Samsung: Retail marketing strategy for Samsung that engages with consumers across multiple sensory channels in order to influence their perception, judgment and behavior – to build brand familiarity and loyalty was at the centre of the case. Through extemsive market research, we reimagined retail with multi-sensory omni-channel presence,optimizing consumer connections, focusing right from pre-purchase interventions.
-# PepsiCo: Ways to increase female participation in the domain of supply chain was at the centre of our proposal. Following use cases of other organizations working towards being more inclusive, we have recommended full fledged projects- UDITA and USHA, on how to bring in and encourage more women in the workforce.
+# AbInBev:
+- Conducted thorough market research to align with ABInBev's brand positioning and available resources effectively.
+- Formulated MODIVA to complement ABInBev's product lineup, prioritizing indigenous elements.
+- Focused on the premium whiskey market segment.
+- Sourced ingredients exclusively from the North-East region.
+- Integrated community support initiatives as an integral part of the business model.
+
+# Flipkart: 
+- Implemented hyperpersonalization of total rewards for Flipkart's multi-generational workforce.
+- Researched strategies adopted by other organizations.
+- Explored feasible customization options for Flipkart employees.
+- Addressed diverse employee categories and their needs.
+
+# Reckitt:
+- Developed a focused marketing strategy for Dettol Soap Variants' growth pillar.
+- Ensured marketing efforts did not cannibalize base products.
+- Proposed a new Dettol product positioned as a universal soap without compromising brand image.
+  
+# Colgate:
+- Leveraged emotional appeal and sensory communication to encourage toothbrush replacement for improved oral health.
+- Proposed linking better oral hygiene with social status to foster long-term societal change.
+- Advocated for a new product featuring patented technology to visually remind consumers to replace their toothbrushes.
+  
+# Samsung: 
+- Devised retail strategy for Samsung emphasizing multi-sensory engagement.
+- Goal: Influence consumer perception, judgment, and behavior for brand loyalty.
+- Utilized market research to innovate omni-channel retail presence.
+- Emphasized pre-purchase interventions for optimal consumer connection.
+  
+# PepsiCo:
+- Centered proposal on boosting female involvement in supply chain.
+- Advocated projects UDITA and USHA to achieve this aim.
+- Modeled after successful inclusive initiatives from other organizations.
+- Aimed to attract and empower more women in the workforce.
