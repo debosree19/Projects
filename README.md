@@ -32,3 +32,9 @@
 - Advocated projects UDITA and USHA to achieve this aim.
 - Modeled after successful inclusive initiatives from other organizations.
 - Aimed to attract and empower more women in the workforce.
+
+# Marico:
+- Conducted extensive research on snacking habits.
+- Introduced Milli Bites: nutritious millet crackers.
+- Aligned with Marico's portfolio and competitive pricing.
+- Targeted budget-conscious consumers, maintaining Marico's national brand image.
